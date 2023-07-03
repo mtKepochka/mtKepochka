@@ -1,6 +1,6 @@
 # Hi there 👋
 ## **⚡ Introduction**
-My name is Tyulikov Maxim, I'm a first year student of [Bauman Moscow State Technical University](https://bmstu.ru/) from Moscow, Russia.
+My name is Tyulikov Maxim, I'm a second year student of [Bauman Moscow State Technical University](https://bmstu.ru/) from Moscow, Russia.
 
 The specialization of the [Faculty](http://iu7.bmstu.ru/) where I study is **Software Engineering**.
 
