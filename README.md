@@ -10,5 +10,12 @@ The specialization of the [Faculty](http://iu7.bmstu.ru/) where I study is **Sof
 At this profile you can find different projects related with my learning process. So if you have any issues or bugs, be open to write me!
 
 ## **:iphone:  Contact me**
-[![VK](https://camo.githubusercontent.com/54603655c3e30412bd1c67b0177e48dcfba8ce8b02ca5ef0406db7eccc270811/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f766b2d636972636c65642e706e67)](https://vk.com/kepochka_the_best)
-[![TG](https://camo.githubusercontent.com/19b33fac7740d862a68b2633007c886688437bf7a2aad11872f1a2ca82745213/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f74656c656772616d2d6170702d2d76332e706e67)](https://t.me/mtKepochka)
+
+
+[<img align="left" alt="VK" width="48px" src="https://img.icons8.com/fluency/48/000000/vk-circled.png"/>][vk]
+[<img align="left" alt="TG" width="48px" src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/>][tg]
+[<img align="left" alt="DS" width="48px" src="https://img.icons8.com/fluency/48/000000/discord-new-logo.png"/>][ds]
+
+
+[vk]: https://vk.com/kepochka_the_best
+[tg]: https://t.me/mtKepochka
